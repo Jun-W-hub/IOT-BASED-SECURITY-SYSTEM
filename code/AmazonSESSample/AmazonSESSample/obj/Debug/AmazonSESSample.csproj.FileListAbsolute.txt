@@ -1,0 +1,7 @@
+C:\Users\孙笛心\Desktop\AmazonSESSample\AmazonSESSample\bin\Debug\AmazonSESSample.exe.config
+C:\Users\孙笛心\Desktop\AmazonSESSample\AmazonSESSample\bin\Debug\AmazonSESSample.exe
+C:\Users\孙笛心\Desktop\AmazonSESSample\AmazonSESSample\bin\Debug\AmazonSESSample.pdb
+C:\Users\孙笛心\Desktop\AmazonSESSample\AmazonSESSample\obj\Debug\AmazonSESSample.csprojAssemblyReference.cache
+C:\Users\孙笛心\Desktop\AmazonSESSample\AmazonSESSample\obj\Debug\AmazonSESSample.csproj.CoreCompileInputs.cache
+C:\Users\孙笛心\Desktop\AmazonSESSample\AmazonSESSample\obj\Debug\AmazonSESSample.exe
+C:\Users\孙笛心\Desktop\AmazonSESSample\AmazonSESSample\obj\Debug\AmazonSESSample.pdb
